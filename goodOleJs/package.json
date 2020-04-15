@@ -1,0 +1,16 @@
+{
+  "name": "goodolejs",
+  "version": "1.0.0",
+  "description": "This is our first NPM file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "franklin wilborn",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-art": "^2.5.0",
+    "typescript": "^3.8.3"
+  }
+}
